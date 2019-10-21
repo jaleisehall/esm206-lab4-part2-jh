@@ -1,1 +1,7 @@
-# esm206-lab4-part2-jh
+# This is my awesome ReadMe
+
+Jaleise Lab 4 Part 2
+
+- point 1
+- point 2
+- point 3
